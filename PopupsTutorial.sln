@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupsTutorial.Android", "PopupsTutorial.Android\PopupsTutorial.Android.csproj", "{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupsTutorial", "PopupsTutorial\PopupsTutorial.csproj", "{DF21031D-E1F4-4425-9133-7C3E4713AB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9F30DE-27DE-4D83-9659-C14D193AF9EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF21031D-E1F4-4425-9133-7C3E4713AB62}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29962426-C368-4471-9739-B84E4A2E9957}
+	EndGlobalSection
+EndGlobal
